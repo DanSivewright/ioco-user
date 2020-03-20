@@ -1,0 +1,13 @@
+.circle2{
+    width: 32rem;
+    height: 32rem;
+    border-width: 3rem;
+    border-color: #6BB2B0;
+    top: -38%;
+    right: -50%;
+  }
+
+  .grad-blue {
+    background: rgb(189,221,220);
+    background: linear-gradient(81deg, rgba(189,221,220,1) 0%, rgba(106,179,177,1) 100%);
+  }
